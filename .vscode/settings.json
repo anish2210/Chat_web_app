@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiGreen",
+    "terminal.integrated.localEchoStyle": "dim",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveWhenNoErrors": false
+}
